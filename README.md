@@ -25,7 +25,7 @@ https://www.freecodecamp.org/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-This WebSite or Project Was Built Using The Instructions of The Free Camp Code WebSite.
+This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
 
 Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
 
