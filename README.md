@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-#### This Project Is A ** Registration Form**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **Registration Form**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Learn HTML Forms By Building A Registration Form
 
